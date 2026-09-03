@@ -108,7 +108,7 @@ What you’ll see:
 The script already reloads `best_model.pth` and evaluates on the test set:
 
 ```
-Final Test Accuracy: XX.XX%
+Final Test Accuracy: 87.89%
 ```
 
 
